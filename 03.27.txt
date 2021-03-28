@@ -1,0 +1,24 @@
+1.创建项目步骤
+
+1.通过https://github.com   网址创建自己的项目
+账号为1776993235@qq.com
+密码为LMH15243186188a
+
+2.点加号第一个New repository 创建新项目，填名字，create repository
+3.复制链接，桌面右键git clone
+4.在电脑D盘内找自己的克隆文件，
+5.在自己的文件内建文档文件，main.go 文件
+
+
+调用
+
+
+
+
+
+打开文件open folder
+关闭文件，close folder
+
+
+
+
