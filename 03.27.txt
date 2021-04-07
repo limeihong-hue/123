@@ -19,6 +19,8 @@
 打开文件open folder
 关闭文件，close folder
 
+注意，不能出现多个main包，在各个文件同级目录下。
+
 
 
 
